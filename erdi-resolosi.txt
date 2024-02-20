@@ -1,6 +1,8 @@
 erdi resolusi
 - konsisten belajar tentang git dan git hub
 - membuat otak menjadi lebih pintar dengan belajar
+- angular
+-node
 - fundamentar struktur data
 - mencari bahan buat pembelajaran
 - kolabroasi dengan banyak programmer
