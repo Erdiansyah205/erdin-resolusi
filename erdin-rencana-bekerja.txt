@@ -3,6 +3,7 @@ RENCANA BEKERJA ERDIN
 - programmer
 - frame work javascript
 - react.js
+- node.js
 - frame work php
 -struktur daya besar
 - laravel
