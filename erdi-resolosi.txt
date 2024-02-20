@@ -2,5 +2,5 @@ erdi resolusi
 - konsisten belajar tentang git dan git hub
 - membuat otak menjadi lebih pintar dengan belajar
 - mencari bahan buat pembelajaran
-- membuat you tube
 - kolabroasi dengan banyak programmer
+- buat vlog
